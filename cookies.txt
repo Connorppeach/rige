@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.ridgebotics.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1674778119|cnxlKoItPHnW
+www.ridgebotics.com	TRUE	/	FALSE	1999999999	TS0151098c	01273375420c4cbe4a3699dd659faa82f992c682a709ffeff286d0d521d9594b35d19d3f556b790e3c61afaed604dbbfa75cbc2961
+www.ridgebotics.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=hit#varnish=hit#dc#desc=uw2-pub-1
+www.ridgebotics.com	TRUE	/	FALSE	1999999999	TS01e85bed	01286b42af15fb0f247511d88be142b3d332db5dc01ffc2041f8dee0e8021564f794151a99913925d01b13e8bc174b1ddfa1353d04
+www.ridgebotics.com	TRUE	/	FALSE	1999999999	SameSite	none
+

@@ -1,0 +1,22 @@
+HTTrack3.49-2 launched on Thu, 26 Jan 2023 17:08:35 at https://www.ridgebotics.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://www.ridgebotics.com/ -%L * -O "/home/connor/websites/rige2" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -r10 -%e10 -A25000000 -%c10 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:08:35	Warning: 	* security warning: maximum bandwidth limited to 250000 to avoid server overload
+17:08:35	Warning: 	* security warning: maximum number of connections per second limited to 5.000000 to avoid server overload
+17:08:35	Error: 	Could not include URL list: *
+17:09:32	Error: 	"Not Found" (404) at link https://www.ridgebotics.com/decodeURIComponent(e (from https://www.ridgebotics.com/)
+17:12:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://polyfill.io/v3/polyfill.min.js?features=fetch
+17:12:10	Warning: 	HTML file (2865 bytes) retransferred due to lack of cache: https://www.ridgebotics.com/decodeURIComponent(e
+17:12:11	Error: 	"Not Found" (404) at link https://www.ridgebotics.com/decodeURIComponent(e (from https://www.ridgebotics.com/)
+17:13:58	Error: 	"Not Found" (404) at link https://www.ridgebotics.com/feed.xml (from https://www.ridgebotics.com/)
+17:23:21	Error: 	"Not Found" (404) at link https://www.ridgebotics.com/media/emptystate.85a4add5.svg (from https://www.ridgebotics.com/2018powerup)
+17:25:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://static.wixstatic.com/media/af7c14_842947029f9a489987b227fb21ea41e6~mv2.png/v1/fill/w_337,h_87,al_c,lg_1,q_85,enc_auto/AWW_FINAL2_NoTAG-300x77.png
+17:26:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://static.wixstatic.com/media/af7c14_9de396bd5612479096896f8cf6e4d914.png/v1/fill/w_107,h_107,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/af7c14_9de396bd5612479096896f8cf6e4d914.png
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 minutes 36 seconds : 225 links scanned, 260 files written (18464205 bytes overall) [9237378 bytes received at 8277 bytes/sec], 11545068 bytes transferred using HTTP compression in 46 files, ratio 27%, 1.0 requests per connection
+(5 errors, 6 warnings, 0 messages)
